@@ -1,3 +1,9 @@
 [submodule "themes/novela"]
 	path = themes/novela
 	url = https://github.com/forestryio/hugo-theme-novela.git
+[submodule "content/test1"]
+	path = content/test1
+	url = https://github.com/mitchmac/test-content-1
+[submodule "content/test2"]
+	path = content/test2
+	url = https://github.com/mitchmac/test-content-2
